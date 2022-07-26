@@ -1,1 +1,12 @@
 
+body {
+  background: #CCCCCC;
+}
+
+p {
+  test-align: center;
+}
+
+strong {
+  color: #FF0000
+}
